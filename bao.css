@@ -1,0 +1,29 @@
+
+.pad{
+    padding-left:770px;
+    padding-top: 70px;
+}
+
+.padd{
+    padding-bottom: 20px;
+}
+
+.m {
+    margin-right: 150px;
+    margin-left: 150px;
+  }
+  
+img{
+    border-radius:100%;
+    padding-left: 70px;
+}
+.pad4{
+    padding-top: 70px;
+}
+
+
+
+  .p1 {
+    font-size:16px;
+    line-height:1.5. /*In addition, all <p> elements have margin-top: 0 and margin-bottom: 1rem (16px by default)*/
+  }
