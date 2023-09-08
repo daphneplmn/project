@@ -1,0 +1,24 @@
+.image1{
+    padding-top: 20px;
+    padding-bottom: 25px;
+}
+.text1{
+    margin-left: 300px;
+    margin-right: 300px;
+    padding-bottom: 100px;
+}
+body{
+    background-color: beige;
+    text-align: center;
+}
+ul{
+    list-style-type: none;
+}
+img{
+    border-radius: 10%;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.p1{
+    font-size:16px;
+    line-height:1.5. /*In addition, all <p> elements have margin-top: 0 and margin-bottom: 1rem (16px by default)*/
+}
